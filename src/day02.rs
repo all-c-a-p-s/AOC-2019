@@ -41,5 +41,5 @@ pub fn part_two() -> i32 {
             }
         }
     }
-    unreachable!()
+    unreachable!("no solutions found")
 }
