@@ -1,2 +1,3 @@
 # AOC-2019
-Advent of Code 2019, done in 2025 for practice and for fun
+Some solutions to [Advent of Code 2019](https://adventofcode.com/2019).
+Just done for practice, trying to write some high quality/idiomatic code.
